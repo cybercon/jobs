@@ -1,7 +1,7 @@
 Stellenanzeige
 
 Irgendwas darüber, wer wir eigentlich sind, und was wir so tun
-Java Kram, CMS (Content Management System) (Wer CMS nicht kennt, der kanns auch googeln...), Was hatten wir noch für Buzzwords? eCommerce, BPM, SAP, JBoss
+Java Kram, CMS (Content Management System) (Wer CMS nicht kennt, der kanns auch googeln...), Was hatten wir noch für Buzzwords? eCommerce, BPM, JBoss
 
 Was suchen wir? 
 Senior Consultants und Junioren, die mal groß werden wollen
